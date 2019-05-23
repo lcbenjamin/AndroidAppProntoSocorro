@@ -13,7 +13,6 @@ public class Principal extends Activity {
         setContentView(R.layout.activity_principal);
     }
 
-
     public void onclickListarUPS(View view){
 
         Intent intent = new Intent(this, ListaProntoSocorros.class);
@@ -24,6 +23,5 @@ public class Principal extends Activity {
 
         Intent intent = new Intent(this, Socorrer.class);
         startActivity(intent);
-
     }
 }

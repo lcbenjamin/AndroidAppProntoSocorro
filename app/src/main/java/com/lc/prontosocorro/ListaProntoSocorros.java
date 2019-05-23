@@ -21,21 +21,23 @@ public class ListaProntoSocorros extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle icicle) {
         super.onCreate(icicle);
-
         setContentView(R.layout.lista_todas_unidades);
+
         listaUnidadesSaude = findViewById(R.id.listaTodasUnidades);
+
         GetJson download = new GetJson();
+
         download.execute();
     }
 
     public void iniciaAdapter(){
 
-        ArrayAdapter<UnidadeProntoSocorroObj> adapter = new ArrayAdapter<>(this,
-                android.R.layout.select_dialog_item,unidadesProntoSocorro);
-
-        listaUnidadesSaude.setAdapter(adapter);
-
-    }
+        if(unidadesProntoSocorro != null || !unidadesProntoSocorro.isEmpty()){
+            ArrayAdapter<UnidadeProntoSocorroObj> adapter = new ArrayAdapter<>(this,
+                    android.R.layout.select_dialog_item,unidadesProntoSocorro);
+            listaUnidadesSaude.setAdapter(adapter);
+        }
+     }
 
     private class GetJson extends AsyncTask<Void, Void, ArrayList<UnidadeProntoSocorroObj>> {
 
@@ -61,5 +63,4 @@ public class ListaProntoSocorros extends AppCompatActivity {
 
             }
     }
-
 }

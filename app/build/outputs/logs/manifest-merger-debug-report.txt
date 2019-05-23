@@ -1,0 +1,237 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\3f2d6f1376403a1c22a07311884be744\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\e350d1e3f4b6bb20b03feb7f403a0f3e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\586ab20f364da7561b943fe4cd63532e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\4497f8feadaeefb1c6b440da427b6615\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\8e9240f0ae29b43642f7efb7af1ba8b4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\bc5448e2379b28b212c6cc70a20402c0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\6ca193415b4ed706d722895cfacd680c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\20ff4e16b66a35f8398e2755e2a5ddb0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\2da07f036ae7eb6b6091d9155065b3e8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\973f406ed7bbb889079fbca708caee1f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\7f07d691c2000696fd52d76aca28825a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\05d2f8b83c8ab998593c98088ed8d44c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\36513b25f134e3922e8824207012e7e7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\018f9d6afd11bbb7c07733e79bac8edf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\31740820450a37c7f875bda33f21a3ef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\22f989a31e2860794e567fd486be53dc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\cba3d781377245d7e118e5f6b25cc609\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\622b182c29ccfdfa4f0be6637516f3a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\aab3629281413c68e8014ce8f78f4dba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\69076de598aebe6554408ef85383ef8e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\aa7f9b7bb8a673d120df7d83d3d89d85\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\08df6eae354181a22b4048ba734c7aed\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\933c7fc08918c9151862a72742ac7d27\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\f167381461c4d785655655e1949ef822\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\c8a4f68930734faac7d9a8eb00a85209\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\4ada35a47b32640d16de189b6d5d55af\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\f6cafa7c1b87e5cc2a29614fed66ffd7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\a98098456c4416d230f5e7c814a39a3a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\2529693d9b936cd54f7007ab20c76043\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\836482e93c4ea1e4c30a8e416ec919c9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\3d0d415bab1c41b17804714f973a884d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\5c5e6fd3b2b2eef6141fe355c8c162c0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\5353cb781b01cafbc5d638d0b5255c91\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\d5aa1b5ef485f42d81a70adfc126cd58\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml:8:22-78
+application
+ADDED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml:10:5-27:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\e350d1e3f4b6bb20b03feb7f403a0f3e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\e350d1e3f4b6bb20b03feb7f403a0f3e\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\586ab20f364da7561b943fe4cd63532e\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\586ab20f364da7561b943fe4cd63532e\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\4497f8feadaeefb1c6b440da427b6615\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\4497f8feadaeefb1c6b440da427b6615\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\8e9240f0ae29b43642f7efb7af1ba8b4\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\8e9240f0ae29b43642f7efb7af1ba8b4\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\bc5448e2379b28b212c6cc70a20402c0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\bc5448e2379b28b212c6cc70a20402c0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\6ca193415b4ed706d722895cfacd680c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\6ca193415b4ed706d722895cfacd680c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\20ff4e16b66a35f8398e2755e2a5ddb0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\20ff4e16b66a35f8398e2755e2a5ddb0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\08df6eae354181a22b4048ba734c7aed\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\08df6eae354181a22b4048ba734c7aed\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\933c7fc08918c9151862a72742ac7d27\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\933c7fc08918c9151862a72742ac7d27\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\f167381461c4d785655655e1949ef822\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\f167381461c4d785655655e1949ef822\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\933c7fc08918c9151862a72742ac7d27\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.lc.prontosocorro.ListaProntoSocorros
+ADDED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml:17:9-57
+	android:name
+		ADDED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml:17:19-54
+activity#com.lc.prontosocorro.Socorrer
+ADDED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml:18:9-46
+	android:name
+		ADDED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml:18:19-43
+activity#com.lc.prontosocorro.Principal
+ADDED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml:19:9-25:20
+	android:name
+		ADDED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml:19:19-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\3f2d6f1376403a1c22a07311884be744\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\3f2d6f1376403a1c22a07311884be744\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\e350d1e3f4b6bb20b03feb7f403a0f3e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\e350d1e3f4b6bb20b03feb7f403a0f3e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\586ab20f364da7561b943fe4cd63532e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\586ab20f364da7561b943fe4cd63532e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\4497f8feadaeefb1c6b440da427b6615\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\4497f8feadaeefb1c6b440da427b6615\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\8e9240f0ae29b43642f7efb7af1ba8b4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\8e9240f0ae29b43642f7efb7af1ba8b4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\bc5448e2379b28b212c6cc70a20402c0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\bc5448e2379b28b212c6cc70a20402c0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\6ca193415b4ed706d722895cfacd680c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\6ca193415b4ed706d722895cfacd680c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\20ff4e16b66a35f8398e2755e2a5ddb0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\20ff4e16b66a35f8398e2755e2a5ddb0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\2da07f036ae7eb6b6091d9155065b3e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\2da07f036ae7eb6b6091d9155065b3e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\973f406ed7bbb889079fbca708caee1f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\973f406ed7bbb889079fbca708caee1f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\7f07d691c2000696fd52d76aca28825a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\7f07d691c2000696fd52d76aca28825a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\05d2f8b83c8ab998593c98088ed8d44c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\05d2f8b83c8ab998593c98088ed8d44c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\36513b25f134e3922e8824207012e7e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\36513b25f134e3922e8824207012e7e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\018f9d6afd11bbb7c07733e79bac8edf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\018f9d6afd11bbb7c07733e79bac8edf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\31740820450a37c7f875bda33f21a3ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\31740820450a37c7f875bda33f21a3ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\22f989a31e2860794e567fd486be53dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\22f989a31e2860794e567fd486be53dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\cba3d781377245d7e118e5f6b25cc609\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\cba3d781377245d7e118e5f6b25cc609\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\622b182c29ccfdfa4f0be6637516f3a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\622b182c29ccfdfa4f0be6637516f3a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\aab3629281413c68e8014ce8f78f4dba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\aab3629281413c68e8014ce8f78f4dba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\69076de598aebe6554408ef85383ef8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\69076de598aebe6554408ef85383ef8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\aa7f9b7bb8a673d120df7d83d3d89d85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\aa7f9b7bb8a673d120df7d83d3d89d85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\08df6eae354181a22b4048ba734c7aed\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\08df6eae354181a22b4048ba734c7aed\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\933c7fc08918c9151862a72742ac7d27\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\933c7fc08918c9151862a72742ac7d27\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\f167381461c4d785655655e1949ef822\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\f167381461c4d785655655e1949ef822\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\c8a4f68930734faac7d9a8eb00a85209\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\c8a4f68930734faac7d9a8eb00a85209\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\4ada35a47b32640d16de189b6d5d55af\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\4ada35a47b32640d16de189b6d5d55af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\f6cafa7c1b87e5cc2a29614fed66ffd7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\f6cafa7c1b87e5cc2a29614fed66ffd7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\a98098456c4416d230f5e7c814a39a3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\a98098456c4416d230f5e7c814a39a3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\2529693d9b936cd54f7007ab20c76043\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\2529693d9b936cd54f7007ab20c76043\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\836482e93c4ea1e4c30a8e416ec919c9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\836482e93c4ea1e4c30a8e416ec919c9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\3d0d415bab1c41b17804714f973a884d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\3d0d415bab1c41b17804714f973a884d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\5c5e6fd3b2b2eef6141fe355c8c162c0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\5c5e6fd3b2b2eef6141fe355c8c162c0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\5353cb781b01cafbc5d638d0b5255c91\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\5353cb781b01cafbc5d638d0b5255c91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\d5aa1b5ef485f42d81a70adfc126cd58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\d5aa1b5ef485f42d81a70adfc126cd58\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\20ff4e16b66a35f8398e2755e2a5ddb0\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\l.albuquerque.costa\Documents\DESENVOLVIMENTO\WORKSPACE\ProntoSocorro\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\4497f8feadaeefb1c6b440da427b6615\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\4497f8feadaeefb1c6b440da427b6615\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\4497f8feadaeefb1c6b440da427b6615\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\4497f8feadaeefb1c6b440da427b6615\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\6ca193415b4ed706d722895cfacd680c\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\6ca193415b4ed706d722895cfacd680c\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\6ca193415b4ed706d722895cfacd680c\AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\20ff4e16b66a35f8398e2755e2a5ddb0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\08df6eae354181a22b4048ba734c7aed\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\08df6eae354181a22b4048ba734c7aed\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\20ff4e16b66a35f8398e2755e2a5ddb0\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\l.albuquerque.costa\.gradle\caches\transforms-2\files-2.1\20ff4e16b66a35f8398e2755e2a5ddb0\AndroidManifest.xml:27:13-51
